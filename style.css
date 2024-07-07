@@ -1,15 +1,15 @@
-.header {
-	top:20px;
+html {
+font-family: Roboto, sans-serif;
 }
 
-.main {
-	padding-top:100px;
+*{
+	color: #C0C0C0;
 }
 
-.posLeft {
-	margin-left:-66%;
+h1 {
+	color: #C0C0C0;
 }
 
-.posCenter {
-	margin-left:33%;
+a {
+	color: #00FFFF;
 }
